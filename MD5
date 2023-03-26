@@ -1,0 +1,8 @@
+0ff173531b237dc88c004f7e50ea212a *DESCRIPTION
+91ecc183dcaad77875a1dba65a2cf00d *NAMESPACE
+a8c30b10546ca924df26c369abd8c5e4 *R/irtawsi.R
+afbe4209b3bb961ba3e41cbfe79ea507 *build/partial.rdb
+8b067cf463835da41c2d4f68141ce2c3 *inst/irtawsi/report.Rmd
+f05ba56d677ead2588385d316fde28be *inst/irtawsi/server.R
+c04d4c318636d61751e6341419c04ac7 *inst/irtawsi/ui.R
+2532847db33e165522a483e01ece1707 *man/irtawsi.Rd
